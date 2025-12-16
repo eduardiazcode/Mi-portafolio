@@ -1,4 +1,4 @@
-# Proyecto de mi portafolio
+# Proyecto de Mi Portafolio
 
 Lore Impsum ...
 
