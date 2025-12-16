@@ -2,4 +2,6 @@
 
 Lore Impsum ...
 
-Azul de la empresa: rgb(1, 36, 49)
+
+
+About me es una nueva página
